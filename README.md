@@ -2,8 +2,6 @@
 Recast & Detour
 ===============
 
-*** [Download](https://goo.su/OlNvUU) ***
-
 ![screenshot of a navmesh baked with the sample program](/RecastDemo/screenshot.png?raw=true)
 
 ## Recast
